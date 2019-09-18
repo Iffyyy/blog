@@ -1,2 +1,5 @@
-# blog
-something to write
+# just do it
+从今年一月开始学习前端，学习vue，慢慢的开始记录这大半年的学习所得，也制定接下来的一些学习规划。
+
+# JavaScript基础
+
